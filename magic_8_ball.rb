@@ -34,6 +34,7 @@ answers  =  [
 ]
 # выводим случайный элемент массива
 puts greetings.sample
-puts sleep (2)
+puts
+sleep (2)
 # выводим случайный элемент массива
 puts answers.sample
