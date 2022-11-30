@@ -1,6 +1,6 @@
 Description
 
-Random projec "Magic 8Ball"
+Random project "Magic 8Ball"
 
 Game's Wiki link: https://en.wikipedia.org/wiki/Magic_8_Ball
 
